@@ -1,0 +1,102 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    overflow: hidden;
+}
+
+.header_logo {
+    background-color: aqua;
+    height: 100px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+
+.heder_menu {
+    background-color: aquamarine;
+    height: 100px;
+    width: 70%;
+    text-align: center;
+    float: left;
+}
+
+.header_bar {
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+
+}
+
+.content {
+    overflow: hidden;
+}
+
+.content_left {
+    background-color: coral;
+    height: 500px;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+.content_center {
+    height: 500px;
+    width: 50%;
+    text-align: center;
+    float: left;
+
+}
+
+.center_top {
+    background-color: darkkhaki;
+    height: 25%;
+    width: 100%;
+    text-align: center;
+}
+
+.center_middle {
+    background-color: darkmagenta;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.center_middle_left {
+    background-color: darkorange;
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+.center_middle_right {
+    background-color: deeppink;
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+.center_bottom {
+    background-color: cyan;
+    height: 25%;
+    width: 100%;
+    text-align: center;
+}
+
+.content_right {
+    background-color: darkgrey;
+    height: 500px;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+.footer {
+    background-color: khaki;
+    height: 100px;
+    text-align: center;
+}
